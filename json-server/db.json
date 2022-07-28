@@ -1,0 +1,249 @@
+{
+  "auctions": [
+    {
+      "id": 1,
+      "title": "Kytara",
+      "picture": "https://www.guitarcentre.cz/ew/ew_images/image?EwImage=6a4a4b13-bac7-4655-9927-062c481548e2&Filter=b6362aea-d318-435f-9a1a-25bbb19769df",
+      "product": "Tady je moje kytara, pls buy",
+      "launchDate": 1652681073,
+      "currentCost": "5000",
+      "closingTime": 1653026673
+    },
+    {
+      "id": 5,
+      "title": "Bitcoin",
+      "picture": "https://img.cncenter.cz/foto/kryptomeny-bitcoin-krypto/NjkweDQwOC9jZW50ZXIvbWlkZGxlL3NtYXJ0L2ZpbHRlcnM6cXVhbGl0eSg4NSkvaW1n/7662233.jpg?v=0&st=a_LsqStZJPy5J8rXD5o8_uRAvI8-j9xH6pNjT70me1c&ts=1600812000&e=0",
+      "product": "Bitcoin na prodej",
+      "launchDate": 1652508273,
+      "currentCost": "500000",
+      "closingTime": 1652609073
+    },
+    {
+      "id": 10,
+      "title": "Auto",
+      "picture": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/ka_00022_170518-202638_rez.jpg?itok=Mcb_sKbK",
+      "product": "Vůz s doloženým původem, ježděný hlavně na dlouhých trasách, původem z ČR, po jediném majiteli, se servisní knihou, je v perfektním stavu, s bohatou výbavou: pohon všech kol, vyhřívané sedačky, navigace, automatická klimatizace, hlavní světlomety s LED technologií, parkovací senzory.",
+      "launchDate": 1653066273,
+      "currentCost": "500000",
+      "closingTime": 1658336673
+    },
+    {
+      "id": 305,
+      "title": "Mobil",
+      "picture": "https://cdn.alza.cz/Foto/or/articles/17639/img/jak-vybrat-mobil-miniatura-iphone-13-pro.jpg",
+      "product": "Mobilní telefon - 6,5\" AMOLED 2400 × 1080, 90Hz, procesor Qualcomm Snapdragon 720G 8jádrový, RAM 6 GB, interní paměť 128 GB, Micro SD až 1000 GB, zadní fotoaparát 64 Mpx (f/1,8) + 12 Mpx (f/2,2) + 5 Mpx (f/2,4) + 5 Mpx (f/2,2), přední fotoaparát 32 Mpx, optická stabilizace, GPS, Glonass, NFC, LTE, Jack (3,5mm) a USB-C, čtečka otisků v displeji, hybridní slot, neblokovaný, rychlé nabíjení 25W, baterie 4500 mAh, Android 11",
+      "launchDate": 1656583473,
+      "currentCost": "5000",
+      "closingTime": 1659348393
+    },
+    {
+      "id": 17,
+      "title": "Pikachu",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+      "product": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy. ",
+      "launchDate": 1656583473,
+      "currentCost": "10000",
+      "closingTime": 1659358393
+    },
+    {
+      "id": 189,
+      "title": "Kofein v prášku",
+      "picture": "https://g.cz/sites/default/files/styles/gflex_gallery/public/g/images/kofein_v_pr.jpg?itok=w5vu8b1i",
+      "product": "Hořká, bílá krystalická látka – xanthinový alkaloid, který je zároveň psychoaktivní stimulační drogou. ",
+      "launchDate": 1656583473,
+      "currentCost": "500",
+      "closingTime": 1659351393
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Tomášek",
+      "password": "ponorka",
+      "birthday": 965124393
+    },
+    {
+      "id": 2,
+      "name": "Adámek",
+      "password": "letadlo",
+      "birthday": 1059732393
+    },
+    {
+      "id": 3,
+      "name": "Richárdek",
+      "password": "asdfasdf5465421adsfsdaf",
+      "birthday": 1312193193
+    },
+    {
+      "id": 4,
+      "name": "Jiřík",
+      "password": "qwerty",
+      "birthday": 775735593
+    }
+  ],
+  "auction_1": [
+    {
+      "id": 1,
+      "title": "Kytara",
+      "picture": "https://www.guitarcentre.cz/ew/ew_images/image?EwImage=6a4a4b13-bac7-4655-9927-062c481548e2&Filter=b6362aea-d318-435f-9a1a-25bbb19769df",
+      "product": "Tady je moje kytara, pls buy",
+      "launchDate": 1652681073,
+      "currentCost": "5000",
+      "closingTime": 1653026673
+    }
+  ],
+  "auction_5": [
+    {
+      "id": 5,
+      "title": "Bitcoin",
+      "picture": "https://img.cncenter.cz/foto/kryptomeny-bitcoin-krypto/NjkweDQwOC9jZW50ZXIvbWlkZGxlL3NtYXJ0L2ZpbHRlcnM6cXVhbGl0eSg4NSkvaW1n/7662233.jpg?v=0&st=a_LsqStZJPy5J8rXD5o8_uRAvI8-j9xH6pNjT70me1c&ts=1600812000&e=0",
+      "product": "Bitcoin na prodej",
+      "launchDate": 1652508273,
+      "currentCost": "500000",
+      "closingTime": 1652609073
+    }
+  ],
+  "auction_10": [
+    {
+      "id": 10,
+      "title": "Auto",
+      "picture": "https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/ka_00022_170518-202638_rez.jpg?itok=Mcb_sKbK",
+      "product": "Vůz s doloženým původem, ježděný hlavně na dlouhých trasách, původem z ČR, po jediném majiteli, se servisní knihou, je v perfektním stavu, s bohatou výbavou: pohon všech kol, vyhřívané sedačky, navigace, automatická klimatizace, hlavní světlomety s LED technologií, parkovací senzory.",
+      "launchDate": 1653066273,
+      "currentCost": "500000",
+      "closingTime": 1658336673
+    }
+  ],
+  "auction_305": [
+    {
+      "id": 305,
+      "title": "Mobil",
+      "picture": "https://cdn.alza.cz/Foto/or/articles/17639/img/jak-vybrat-mobil-miniatura-iphone-13-pro.jpg",
+      "product": "Mobilní telefon - 6,5\" AMOLED 2400 × 1080, 90Hz, procesor Qualcomm Snapdragon 720G 8jádrový, RAM 6 GB, interní paměť 128 GB, Micro SD až 1000 GB, zadní fotoaparát 64 Mpx (f/1,8) + 12 Mpx (f/2,2) + 5 Mpx (f/2,4) + 5 Mpx (f/2,2), přední fotoaparát 32 Mpx, optická stabilizace, GPS, Glonass, NFC, LTE, Jack (3,5mm) a USB-C, čtečka otisků v displeji, hybridní slot, neblokovaný, rychlé nabíjení 25W, baterie 4500 mAh, Android 11",
+      "launchDate": 1656583473,
+      "currentCost": "5000",
+      "closingTime": 1659348393
+    }
+  ],
+  "bids": [
+    {
+      "userId": 1,
+      "auctionId": 5,
+      "id": 1,
+      "cost": 1000000,
+      "date": 1652508300
+    },
+    {
+      "userId": 2,
+      "auctionId": 5,
+      "id": 2,
+      "cost": 900000,
+      "date": 1652509000
+    },
+    {
+      "userId": 3,
+      "auctionId": 5,
+      "id": 3,
+      "cost": 1100000,
+      "date": 1652509500
+    },
+    {
+      "userId": 4,
+      "auctionId": 5,
+      "id": 4,
+      "cost": 1000001,
+      "date": 1652515000
+    },
+    {
+      "userId": 1,
+      "auctionId": 5,
+      "id": 5,
+      "cost": 10000000,
+      "date": 1652515050
+    },
+    {
+      "userId": 1,
+      "auctionId": 1,
+      "id": 10,
+      "cost": 4000,
+      "date": 1652681073
+    },
+    {
+      "userId": 2,
+      "auctionId": 1,
+      "id": 20,
+      "cost": 5000,
+      "date": 1652681080
+    },
+    {
+      "userId": 3,
+      "auctionId": 1,
+      "id": 30,
+      "cost": 5001,
+      "date": 1652681089
+    },
+    {
+      "userId": 4,
+      "auctionId": 1,
+      "id": 40,
+      "cost": 5500,
+      "date": 1652682089
+    },
+    {
+      "userId": 3,
+      "auctionId": 1,
+      "id": 50,
+      "cost": 6000,
+      "date": 1652682159
+    },
+    {
+      "userId": 2,
+      "auctionId": 10,
+      "id": 100,
+      "cost": 500000,
+      "date": 1653066273
+    },
+    {
+      "userId": 1,
+      "auctionId": 10,
+      "id": 200,
+      "cost": 500005,
+      "date": 1653066274
+    },
+    {
+      "userId": 4,
+      "auctionId": 10,
+      "id": 300,
+      "cost": 500500,
+      "date": 1653066275
+    },
+    {
+      "userId": 3,
+      "auctionId": 10,
+      "id": 400,
+      "cost": 600000,
+      "date": 1653066276
+    },
+    {
+      "userId": 2,
+      "auctionId": 10,
+      "id": 500,
+      "cost": 1000000,
+      "date": 1653066277
+    },
+    {
+      "userId": 4,
+      "auctionId": 305,
+      "id": 1000,
+      "cost": 5000,
+      "date": 1656583473
+    },
+    {
+      "userId": 1,
+      "auctionId": 305,
+      "id": 2000,
+      "cost": 6000,
+      "date": 1656583483
+    }
+  ]
+}
